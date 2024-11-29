@@ -55,7 +55,7 @@
 - Logic is reasoning and the use of conditions to make decisions, such as using commands like if-else statements or loops.
 
 > **The necessity of learning**
-> 
+> Programming is a process that consists of code, programming languages, algorithms, and logic.
 > - [ ] Necessity
 > - [ ] Normal
 > - [X] Not necessary
